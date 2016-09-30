@@ -1,17 +1,4 @@
-# Consulta de Viagens
-
-Aplicação JEE com exemplo de JAAS gerenciado pelo Wildfly 8
-
-### Banco de dados
-
-* MySQL 5.5
-
-### Server
-
-* WildFly 8
-* HornetQ 2.4 (middleware mensageria)
-
-# Configuração do ambiente
+# JAAS
 
 * Banco de dados
 
